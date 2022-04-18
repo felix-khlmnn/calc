@@ -9,7 +9,7 @@ First, you have to compile the source code by executing the following command:
 ```bash
 g++ -o calc calc.cpp
 ```
-Once your `calc` executable is compiled, you can run it either by writing `./calc` in the folder of the executable or by adding it to the corresponding binary locations.
+Once your `calc` executable is compiled, you can run it either by running `./calc` in the folder of the executable or by adding it to the corresponding binary locations.
 
 One example of this would be running the following command:
 ```bash
