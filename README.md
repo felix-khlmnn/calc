@@ -22,7 +22,8 @@ As I wrote in the beginning, this little calculator isn't anything fancy.
 After starting the applicaton, you can start writing operations.  
 *Limitations:*
 - As of right now, operations can only include *one* operator.
-- The only operators that are working right now are +, -, * and /.
-- Carrying over results (Ans in calculators) is not a thing as of right now  
+- The operators +, -, *, /, % and ^ are the only valid operators.
+
+Answers can be carried over by writing `ans` in any part of the operation. 
 
 If you detect any issues, please post an issue. 

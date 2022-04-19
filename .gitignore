@@ -1,2 +1,4 @@
 # Ignoring bin folder
 bin
+# Ignoring vs code settings
+.vscode
