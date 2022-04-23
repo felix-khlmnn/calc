@@ -43,7 +43,7 @@ int main(int argc, char const *argv[])
 
             int operatorIndex = checkOperatorIndex(operation, 0); //checks for the operator in the operation
             if(checkOperatorIndex(operation, operatorIndex + 1) != -1) {
-                cout << RED << "Invalid operation: Can only contain one operator." << endl;
+                cout << RED << "Invalid operation: Can only contain one operator." << RESET << endl;
                 continue;
             }
             // Debug cout << operation[operatorIndex + 1] << endl << checkOperatorIndex(operation, operatorIndex + 1) << endl;
