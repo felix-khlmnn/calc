@@ -27,3 +27,6 @@ After starting the applicaton, you can start writing operations.
 Answers can be carried over by writing `ans` in any part of the operation. 
 
 If you detect any issues, please post an issue. 
+
+## Windows
+Windows users don't have the same luxuries as Linux users have: The Windows command prompt doesn't support escape codes to set colors, etc. In order to avoid seeing a lo of gibberish on the screen, Windows users should instead compile the file `wincalc.cpp`, which excludes those escape sequences.
