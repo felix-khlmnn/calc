@@ -3,7 +3,10 @@ bin
 obj
 # Ignoring vs code settings
 .vscode
-#New feature
+# Installer scripts
 Setup
-#batch files
+# contents of deb
+deb/*
+!deb/.gitkeep
+# batch files
 *.bat
