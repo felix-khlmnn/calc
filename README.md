@@ -29,4 +29,6 @@ Answers can be carried over by writing `ans` in any part of the operation.
 If you detect any issues, please post an issue. 
 
 ## Windows
-Windows users don't have the same luxuries as Linux users have: The Windows command prompt doesn't support escape codes to set colors, etc. In order to avoid seeing a lot of gibberish on the screen, Windows users should instead compile the file `wincalc.cpp`, which excludes those escape sequences.
+Windows users don't have the same luxuries as Linux users have: The Windows command prompt doesn't support escape codes to set colors, etc. In order to avoid seeing a lot of gibberish on the screen, Windows users should instead compile the file `wincalc.cpp`, which excludes those escape sequences.  
+Optionally, you can acquire the installer for x86-compatible PCs through the download link below.  
+[**Download**](https://github.com/felix-khlmnn/calc/releases/download/v1.0/clcalc-1.0-x86.exe)
