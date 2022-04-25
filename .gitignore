@@ -8,5 +8,6 @@ Setup
 # contents of deb
 deb/*
 !deb/.gitkeep
+!deb/*.deb
 # batch files
 *.bat
