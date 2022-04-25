@@ -1,4 +1,9 @@
-# Ignoring bin folder
+# Ignoring bin and obj folder
 bin
+obj
 # Ignoring vs code settings
 .vscode
+#New feature
+Setup
+#batch files
+*.bat
