@@ -9,5 +9,7 @@ Setup
 deb/*
 !deb/.gitkeep
 !deb/*.deb
+!deb/*.md
+!deb/*.1
 # batch files
 *.bat
