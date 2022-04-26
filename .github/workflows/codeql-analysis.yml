@@ -64,6 +64,7 @@ jobs:
 
     - run: |
        g++ calc.cpp
+       g++ wincalc.cpp
 
     - name: Perform CodeQL Analysis
       uses: github/codeql-action/analyze@v2
