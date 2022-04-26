@@ -15,11 +15,11 @@ One example of this would be running the following command:
 ```bash
 sudo cp path/to/calc /usr/local/bin/calc 
 ```
-This adds the `calc` executable to the `$PATH` of the user, making it accesible in any shell by simply calling `calc`.
+This adds the `calc` executable to the `$PATH` of the user, making it accessible in any shell by simply calling `calc`.
 
 ## Usage
 As I wrote in the beginning, this little calculator isn't anything fancy.  
-After starting the applicaton, you can start writing operations.  
+After starting the application, you can start writing operations.  
 *Limitations:*
 - As of right now, operations can only include *one* operator.
 - The operators +, -, *, /, % and ^ are the only valid operators.
