@@ -63,7 +63,7 @@ jobs:
     #    uses a compiled language
 
     - run: |
-       g++ main.cpp
+       g++ calc.cpp
 
     - name: Perform CodeQL Analysis
       uses: github/codeql-action/analyze@v2
